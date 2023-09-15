@@ -1,13 +1,16 @@
 .login-container {
     max-width: 300px;
-   
+    margin: 0 auto;
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 5px;
     background-color: #f8f8f8;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+<<<<<<< HEAD
    
     
+=======
+>>>>>>> 15a79dfaf498c1c348700d9244d9e43b58b90741
   }
   
   input {
@@ -16,18 +19,28 @@
     margin-bottom: 10px;
     border: 1px solid #ccc;
     border-radius: 3px;
+<<<<<<< HEAD
     
+=======
+>>>>>>> 15a79dfaf498c1c348700d9244d9e43b58b90741
   }
   
   button {
     width: 100%;
     padding: 10px;
+<<<<<<< HEAD
     background-color: #a5aaaf;
+=======
+    background-color: #383a3c;
+>>>>>>> 15a79dfaf498c1c348700d9244d9e43b58b90741
     color: #fff;
      border: none;
     border-radius: 3px;
     cursor: pointer; 
+<<<<<<< HEAD
   
+=======
+>>>>>>> 15a79dfaf498c1c348700d9244d9e43b58b90741
   }
   
    

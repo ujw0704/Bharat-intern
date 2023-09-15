@@ -7,9 +7,13 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
+<<<<<<< HEAD
 
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.16.0",
+=======
+    "react-dom": "^18.2.0",
+>>>>>>> 15a79dfaf498c1c348700d9244d9e43b58b90741
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
